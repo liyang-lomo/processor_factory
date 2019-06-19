@@ -11,3 +11,5 @@ Support for generic reflections to dynamically create objects, whether they are 
 Currently only supports c++11, can also support c++98
 # usage
 see demo.cpp
+# License
+Apache 2.0
